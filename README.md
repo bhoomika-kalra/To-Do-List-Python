@@ -17,12 +17,6 @@ This app helps users manage tasks efficiently with features like priority settin
 
 ---
 
-## 🖥️ Screenshot
-
-![App Screenshot](images/screenshot.png)
-
----
-
 ## 🛠️ Tech Stack
 
 * Python
